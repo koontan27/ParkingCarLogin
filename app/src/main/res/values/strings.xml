@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Car</string>
+    <string name="LOGIN">LOGIN</string>
+    <string name="USERNAME">USERNAME</string>
+    <string name="PASSWORD">PASSWORD</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="empty">empty</string>
+    <string name="LicensePlate">LicensePlate</string>
+    <string name="brand">Brand</string>
+    <string name="owner">Owner</string>
+    <string name="submit">SUMBIT</string>
+    <string name="about">About</string>
+    <string name="name">Wasin</string>
+    <string name="surname">Sombatboon</string>
+    <string name="textname">Name</string>
+</resources>
